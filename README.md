@@ -1,16 +1,14 @@
-# Astro Starter Kit: Basics
+# Rooted Together
 
+## :zap: Quick start
+We are using [Astro](https://astro.build), a web framework, and [Tailwind](https://tailwindcss.com), a css framework.
+
+Here are the helper dependencies:
 ```
-npm create astro@latest -- --template basics
+── @astrojs/image - Makes images load faster
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+Please refer to [CONTRIBUTING.md](./CONTRIBUTING.md) to learn how to contribute to this project.
 
 ## 🚀 Project Structure
 
@@ -27,7 +25,13 @@ Inside of your Astro project, you'll see the following folders and files:
 │   │   └── Layout.astro
 │   └── pages/
 │       └── index.astro
-└── package.json
+├── package.json
+├── astro.config.mjs
+├── .gitignore
+├── astro.config.mjs
+├── README.md
+├── tailwind.config.js
+└── tsconfig.json
 ```
 
 Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
@@ -52,3 +56,4 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
