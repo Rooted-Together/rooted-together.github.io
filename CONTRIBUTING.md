@@ -5,7 +5,7 @@
 1. Fork the repository on GitHub
 2. Clone the forked repository to your local machine using [git](https://git-scm.com/)
 ```
-git clone https://github.com/Rooted-Together/Website
+git clone https://github.com/Rooted-Together/rooted-together.github.io
 ```
 3. Install the dependencies
 ```
@@ -29,7 +29,7 @@ git commit -m "Your commit message"
 ```
 git push origin main
 ```
-10. [Go here](https://github.com/Rooted-Together/Website/compare) on GitHub
+10. [Go here](https://github.com/Rooted-Together/rooted-together.github.io/compare) on GitHub
 11. Compare across forks
 12. Open a pull request with a good description and screenshot of your changes 
 
